@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there 👋<br><br>Welcome to my GitHub profile! I'm a passionate **Frontend/MERN Stack Developer** focused on building responsive, user-friendly applications. I'm always eager to learn, grow, and collaborate with others in the tech community.<br><br>## 🚀 Technologies I Use<br><br>- **Frontend:**<br>  - HTML5, CSS3, JavaScript (ES6+)<br>  - React.js, Redux<br>  - React Native<br>  - Next.js, Tailwind CSS, Bootstrap<br>  - Sass, Styled Components<br><br>- **Backend:**<br>  - Node.js, Express.js<br>  - MongoDB, Mongoose<br>  - JWT Authentication, Passport.js<br><br>- **Version Control:**<br>  - Git, GitHub, GitLab<br><br>- **Other:**<br>  - Firebase, AWS, Netlify, Vercel<br><br>## 🔭 Currently Working On<br><br>I'm currently building full-stack applications using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and exploring **GraphQL** and **Apollo Server** for modern API development. <br><br>## 🌱 I’m Currently Learning<br><br>- **TypeScript:** to improve type safety and make my code more robust.<br>- **GraphQL:** I'm diving into this modern alternative to REST APIs for efficient data fetching and querying.<br>- **Advanced React Patterns:** such as hooks, context, and state management libraries.<br><br>## 👯 I’m Looking to Collaborate On<br><br>- Open-source projects to contribute to.<br>- MERN stack applications or full-stack JavaScript apps.<br>- React component libraries or UI/UX design projects.<br><br>## 🤔 I’m Looking For Help With<br><br>- Scaling and optimizing MERN stack applications.<br>- Advanced state management techniques in React (Redux, Recoil, Zustand).<br>- Improving performance and accessibility of web applications.<br><br>## 💬 Ask Me About<br><br>- Web development (Frontend/Fullstack)<br>- React, Node.js, and Express<br>- JavaScript best practices and ES6+ features<br>- Design systems and component-based UI development<br><br>## 📫 How to Reach Me:<br><br>- Email: [gohohodanni@gmail.com](mailto:your.email@example.com)<br>- LinkedIn: [https://www.linkedin.com/in/gohohodaniel/](https://linkedin.com/in/yourprofile)<br>- Portfolio: https://gohohodaniel.vercel.app/<br><br>## 😄 Pronouns:<br><br>He/Him<br><br>## ⚡ Fun Fact:<br><br>I love building projects that solve real-world problems, and I'm a big fan of **open-source** contributions!<br><br><br><br>
 
-<!--
-**6ROWN/6ROWN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 💻 Tech Stack:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=6ROWN&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=6ROWN&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=6ROWN&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=6ROWN&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=6ROWN&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
